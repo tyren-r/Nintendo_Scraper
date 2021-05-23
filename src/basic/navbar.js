@@ -1,20 +1,30 @@
-import React, { useState } from 'react';
-
-function NavBar() {
-  // Declare a new state variable, which we'll call , fittingly in two ways, link
-  const [link, setsetLink] = useState("home");
-
-  return (
-    <div id="container">
-     <a>home</a>
-     <a>atari</a>
-     <a>n64</a>
-     <a>gamecube</a>
-     <a>ps1</a>
-     <a>ps2</a>
-     <a>icon log in</a>
-     <a>icon something</a>
-    </div>
-  );
+import React from 'react';
+class NavBar extends React.Component {
+  constructor() {
+    super();
+    this.state = {activeLink: "home"};
+  }
+  renderNavBar() {
+    return (
+      <div >
+       <a>home</a>
+       <a>atari</a>
+       <a>n64</a>
+       <a>gamecube</a>
+       <a>ps1</a>
+       <a>ps2</a>
+       <a>icon log in</a>
+       <a>icon something</a>
+      </div>
+    );
+  }
+  render() {
+    return (
+      <div>
+      {this.renderNavBar()}
+      </div>
+    )
+  }
 }
-export default NavBar();
+
+export default NavBar
