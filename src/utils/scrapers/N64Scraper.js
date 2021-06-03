@@ -3,8 +3,7 @@ import rp from "request-promise";
 import cheerio from "cheerio";
 
 const options = {
-  uri:"https://cors-anywhere.herokuapp.com/https://www.nintendolife.com/games/browse?system=n64",headers: {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'}
+  uri:"https://cors-anywhere.herokuapp.com/https://en.wikipedia.org/wiki/List_of_Nintendo_64_games",
 };
 class N64Scraper extends Component {
   state = { names : [] };
@@ -21,14 +20,11 @@ class N64Scraper extends Component {
 
       // find what element ids, classes, or tags you want from opening console in the browser
       // cheerio library lets you select elements similar to querySelector
-      $(".items cols-4 style-cover li .item-wrap .info .info-wrap .heading title accent-hover").each(function(i, element) {
+      $("#softwarelist tbody tr").each(function(i, element) {
         let name = $(this)
-          .prepend()
-          .text();
+        .find('td:first').text();
         names.push(name);
-        console.log(html)
       });
-      console.log(html)
       this.setState({ names });
     })
     .catch(function(err) {
