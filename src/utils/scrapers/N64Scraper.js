@@ -6,7 +6,7 @@ const options = {
   uri:"https://cors-anywhere.herokuapp.com/https://en.wikipedia.org/wiki/List_of_Nintendo_64_games",
 };
 class N64Scraper extends Component {
-  state = { names : [] };
+  state = { games : [{}]  };
 
   
 
@@ -15,31 +15,47 @@ class N64Scraper extends Component {
     // use the request-promise library to fetch the HTML from pokemon.org
     rp(options)
     .then(html => {
-      let names = [];
+      let games = [];
       let $ = cheerio.load(html);
 
       // find what element ids, classes, or tags you want from opening console in the browser
       // cheerio library lets you select elements similar to querySelector
       $("#softwarelist tbody tr").each(function(i, element) {
-        let name = $(this)
-        .find('td:first').text();
-        names.push(name);
+        let name = $(this).find('td:first').text();
+        let date = $(this).find('td:nth-child(5)').text();
+        let genre = $(this).find('td:nth-child(3)').text();
+
+        games.push({"id": i,
+          "name":name,
+                    "date":date,
+                    "genre":genre,
+          })
       });
-      this.setState({ names });
+      this.setState({ games });
+      console.log(this.state.games)
     })
     .catch(function(err) {
-      console.log("crawl failed");
+      console.log("crawl failed")
+      console.log(err);
     });
 }
 
 render() {
   return (
     <div>
-      <ul>
-        {this.state.names.map(name => {
-          return <li key={name}>{name}</li>;
+      <table>
+        {this.state.games.map(game => {
+          return (
+            <div>
+          <tr key={game.id}>
+            <td>{game.name}</td>
+            <td>{game.date}</td>
+            <td>{game.genre}</td>
+          </tr>
+            </div>
+          )
         })}
-      </ul>
+      </table>
     </div>
   );
 }
