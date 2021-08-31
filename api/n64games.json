@@ -1,0 +1,2396 @@
+[
+    {
+        "id": 0,
+        "name": "",
+        "date": "",
+        "genre": ""
+    },
+    {
+        "id": 1,
+        "name": "",
+        "date": "",
+        "genre": ""
+    },
+    {
+        "id": 2,
+        "name": "64 de Hakken!! Tamagotchi: Minna de Tamagotchi World\n",
+        "date": "1997-12-19JP\n",
+        "genre": "Bandai Games\n"
+    },
+    {
+        "id": 3,
+        "name": "64 Hanafuda: Tenshi no Yakusoku\n",
+        "date": "1999-11-15JP\n",
+        "genre": "Altron\n"
+    },
+    {
+        "id": 4,
+        "name": "64 Ozumo\n",
+        "date": "1997-11-28JP\n",
+        "genre": "Bottom Up\n"
+    },
+    {
+        "id": 5,
+        "name": "64 Ozumo 2\n",
+        "date": "1999-03-19JP\n",
+        "genre": "Bottom Up\n"
+    },
+    {
+        "id": 6,
+        "name": "64 Trump Collection: Alice no Waku Waku Trump World\n",
+        "date": "1998-08-07JP\n",
+        "genre": "Bottom Up\n"
+    },
+    {
+        "id": 7,
+        "name": "1080° Snowboarding\n",
+        "date": "1998-02-28JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 8,
+        "name": "Aero Fighters AssaultSonic Wing AssaultJP\n",
+        "date": "1997-10-30NA\n",
+        "genre": "Video System\n"
+    },
+    {
+        "id": 9,
+        "name": "AeroGauge\n",
+        "date": "1997-12-19JP\n",
+        "genre": "ASCII Entertainment\n"
+    },
+    {
+        "id": 10,
+        "name": "AI Shogi 3\n",
+        "date": "1998-12-18JP\n",
+        "genre": "ASCII Something Good\n"
+    },
+    {
+        "id": 11,
+        "name": "Aidyn Chronicles: The First Mage\n",
+        "date": "2001-03-14NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 12,
+        "name": "Air Boarder 64\n",
+        "date": "1998-03-27JP\n",
+        "genre": "Human EntertainmentJPGaga Interactive MediaPAL\n"
+    },
+    {
+        "id": 13,
+        "name": "All Star Tennis '99Yannick Noah All Star Tennis '99FRA\n",
+        "date": "1999-01PAL\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 14,
+        "name": "All-Star Baseball '99\n",
+        "date": "1998-04-27NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 15,
+        "name": "All-Star Baseball 2000\n",
+        "date": "1999-04-08NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 16,
+        "name": "All-Star Baseball 2001\n",
+        "date": "2000-03-31NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 17,
+        "name": "Armorines: Project S.W.A.R.M.\n",
+        "date": "1999-12-09NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 18,
+        "name": "Army Men: Air Combat\n",
+        "date": "2000-07-19NA\n",
+        "genre": "The 3DO Company\n"
+    },
+    {
+        "id": 19,
+        "name": "Army Men: Sarge's Heroes\n",
+        "date": "1999-09-28NA\n",
+        "genre": "The 3DO Company\n"
+    },
+    {
+        "id": 20,
+        "name": "Army Men: Sarge's Heroes 2\n",
+        "date": "2000-09-26NA\n",
+        "genre": "The 3DO Company\n"
+    },
+    {
+        "id": 21,
+        "name": "Asteroids Hyper 64\n",
+        "date": "1999-12-14NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 22,
+        "name": "Automobili Lamborghini\n",
+        "date": "1997-11-30NA\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 23,
+        "name": "Automobili Lamborghini: Super Speed Race 64\n",
+        "date": "1998-05-29JP\n",
+        "genre": "Taito\n"
+    },
+    {
+        "id": 24,
+        "name": "Bakuretsu Muteki Bangaiō\n",
+        "date": "1999-09-03JP\n",
+        "genre": "ESP\n"
+    },
+    {
+        "id": 25,
+        "name": "Bakushō Jinsei 64: Mezase! Resort Ō\n",
+        "date": "1998-12-24JP\n",
+        "genre": "Taito\n"
+    },
+    {
+        "id": 26,
+        "name": "Banjo-KazooieBanjo to Kazooie no DaibokenJP\n",
+        "date": "1998-06-29NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 27,
+        "name": "Banjo-TooieBanjo to Kazooie no Daiboken 2JP\n",
+        "date": "2000-11-20NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 28,
+        "name": "Bass Masters 2000\n",
+        "date": "1999-12-16NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 29,
+        "name": "Bass Rush ~ECOGEAR PowerWorm Championship~\n",
+        "date": "2000-04-28JP\n",
+        "genre": "Visco Corporation\n"
+    },
+    {
+        "id": 30,
+        "name": "Batman Beyond: Return of the JokerBatman of the Future: Return of the JokerPAL\n",
+        "date": "2000-12-13NA\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 31,
+        "name": "BattleTanx\n",
+        "date": "1998-12-29NA\n",
+        "genre": "The 3DO Company\n"
+    },
+    {
+        "id": 32,
+        "name": "BattleTanx: Global Assault\n",
+        "date": "1999-08-31NA\n",
+        "genre": "The 3DO Company\n"
+    },
+    {
+        "id": 33,
+        "name": "Battlezone: Rise of the Black Dogs\n",
+        "date": "2000-03-30NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 34,
+        "name": "Beetle Adventure Racing!\n",
+        "date": "1999-02-28NA\n",
+        "genre": "Electronic ArtsNA/PALSquare EAJP\n"
+    },
+    {
+        "id": 35,
+        "name": "Big Mountain 2000Snow SpeederJP\n",
+        "date": "1998-12-26JP\n",
+        "genre": "ImagineerJPSouthPeak Interactive/XicatNA\n"
+    },
+    {
+        "id": 36,
+        "name": "Bio F.R.E.A.K.S.\n",
+        "date": "1998-05-31NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 37,
+        "name": "Blast CorpsBlastdozerJP\n",
+        "date": "1997-03-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 38,
+        "name": "Blues Brothers 2000\n",
+        "date": "2000-10-13PAL\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 39,
+        "name": "Body Harvest\n",
+        "date": "1998-09-30PAL\n",
+        "genre": "Gremlin InteractivePALMidway Home EntertainmentNA\n"
+    },
+    {
+        "id": 40,
+        "name": "Bomberman 64Baku BombermanJP\n",
+        "date": "1997-09-26JP\n",
+        "genre": "Hudson SoftJPNintendoNA/PAL\n"
+    },
+    {
+        "id": 41,
+        "name": "Bomberman 64\n",
+        "date": "2001-12-20JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 42,
+        "name": "Bomberman 64: The Second AttackBaku Bomberman 2JP\n",
+        "date": "1999-12-03JP\n",
+        "genre": "Hudson SoftJPVatical EntertainmentNA\n"
+    },
+    {
+        "id": 43,
+        "name": "Bomberman HeroBomberman Hero ~Mirian-Ōjo o Sukue!~JP\n",
+        "date": "1998-04-30JP\n",
+        "genre": "Hudson SoftJPNintendoNA/PAL\n"
+    },
+    {
+        "id": 44,
+        "name": "Bottom of the 9th\n",
+        "date": "1999-04-14NA\n",
+        "genre": "Konami of America\n"
+    },
+    {
+        "id": 45,
+        "name": "Brunswick Circuit Pro Bowling\n",
+        "date": "1999-12-23NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 46,
+        "name": "Buck Bumble\n",
+        "date": "1998-09-30NA\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 47,
+        "name": "Bust-A-Move 2 Arcade Edition\n",
+        "date": "1998-04-30NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 48,
+        "name": "Bust-A-Move 3 DXBust-A-Move '99NAPuzzle Bobble 64JP\n",
+        "date": "1998-11PAL\n",
+        "genre": "Acclaim EntertainmentPAL/NATaitoJP\n"
+    },
+    {
+        "id": 49,
+        "name": "California Speed\n",
+        "date": "1999-02-28NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 50,
+        "name": "Carmageddon 64\n",
+        "date": "1999-10-22PAL\n",
+        "genre": "Sales Curve InteractivePALTitus SoftwareNA\n"
+    },
+    {
+        "id": 51,
+        "name": "CastlevaniaAkumajō Dracula MokushirokuJP\n",
+        "date": "1999-01-26NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 52,
+        "name": "Castlevania: Legacy of DarknessAkumajō Dracula Mokushiroku Gaiden ~ Legend of CornellJP\n",
+        "date": "1999-11-30NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 53,
+        "name": "Centre Court TennisLet's SmashJP\n",
+        "date": "1998-10-09JP\n",
+        "genre": "Hudson SoftJPGaga Interactive MediaPAL\n"
+    },
+    {
+        "id": 54,
+        "name": "Chameleon Twist\n",
+        "date": "1997-11-30NA\n",
+        "genre": "SunsoftNA/PALJapan System SupplyJP\n"
+    },
+    {
+        "id": 55,
+        "name": "Chameleon Twist 2\n",
+        "date": "1998-12-25JP\n",
+        "genre": "Japan System SupplyJPSunsoftNA/PAL\n"
+    },
+    {
+        "id": 56,
+        "name": "Charlie Blast's Territory\n",
+        "date": "1999-04-30NA\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 57,
+        "name": "Chopper AttackWild ChoppersJP\n",
+        "date": "1997-11-28JP\n",
+        "genre": "SETA CorporationJPMidway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 58,
+        "name": "Choro Q 64 2: Hachamecha Grand Prix Race\n",
+        "date": "1999-12-24JP\n",
+        "genre": "Takara\n"
+    },
+    {
+        "id": 59,
+        "name": "Chōkūkan Night: Pro Yakyū King\n",
+        "date": "1996-12-20JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 60,
+        "name": "Chōkūkan Night: Pro Yakyū King 2\n",
+        "date": "1999-03-19JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 61,
+        "name": "ClayFighter 63⅓\n",
+        "date": "1997-10-23NA\n",
+        "genre": "Interplay Productions\n"
+    },
+    {
+        "id": 62,
+        "name": "Clay Fighter Sculptor's Cut\n",
+        "date": "1998-05-15NA\n",
+        "genre": "Interplay Productions\n"
+    },
+    {
+        "id": 63,
+        "name": "Command & Conquer\n",
+        "date": "1999-06-29NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 64,
+        "name": "Conker's Bad Fur Day\n",
+        "date": "2001-03-05NA\n",
+        "genre": "RareNA THQPAL\n"
+    },
+    {
+        "id": 65,
+        "name": "Cruis'n Exotica\n",
+        "date": "2000-10-16NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 66,
+        "name": "Cruis'n USA\n",
+        "date": "1996-12-03NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 67,
+        "name": "Cruis'n World\n",
+        "date": "1998-06-25PAL\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 68,
+        "name": "Custom Robo\n",
+        "date": "1999-12-08JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 69,
+        "name": "Custom Robo V2\n",
+        "date": "2000-11-10JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 70,
+        "name": "CyberTiger\n",
+        "date": "2000-02-29NA\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 71,
+        "name": "Dance Dance Revolution Disney Dancing Museum\n",
+        "date": "2000-11-30JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 72,
+        "name": "Dark RiftSpace DynamitesJP\n",
+        "date": "1997-07-10NA\n",
+        "genre": "Vic Tokai\n"
+    },
+    {
+        "id": 73,
+        "name": "Densha de Go! 64\n",
+        "date": "1999-07-30JP\n",
+        "genre": "Taito\n"
+    },
+    {
+        "id": 74,
+        "name": "Derby Stallion 64\n",
+        "date": "2001-08-10JP\n",
+        "genre": "Media Factory\n"
+    },
+    {
+        "id": 75,
+        "name": "Destruction Derby 64\n",
+        "date": "1999-09-30NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 76,
+        "name": "Dezaemon 3D\n",
+        "date": "1998-06-26JP\n",
+        "genre": "Athena\n"
+    },
+    {
+        "id": 77,
+        "name": "Diddy Kong Racing\n",
+        "date": "1997-11-21PAL/JP\n",
+        "genre": "Rare\n"
+    },
+    {
+        "id": 78,
+        "name": "Disney's Donald Duck: Quack AttackDisney's Donald Duck: Goin' QuackersNA\n",
+        "date": "2000-12-08PAL\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 79,
+        "name": "Disney's Tarzan\n",
+        "date": "2000-01-31NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 80,
+        "name": "Disney/Pixar's A Bug's Life\n",
+        "date": "1999-01-01PAL\n",
+        "genre": "Disney InteractiveActivision\n"
+    },
+    {
+        "id": 81,
+        "name": "Disney/Pixar's Toy Story 2: Buzz Lightyear to the Rescue!\n",
+        "date": "1999-11-30NA\n",
+        "genre": "Disney InteractiveActivision\n"
+    },
+    {
+        "id": 82,
+        "name": "Donkey Kong 64\n",
+        "date": "1999-11-22NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 83,
+        "name": "Doom 64\n",
+        "date": "1997-04-04NA\n",
+        "genre": "Midway Home EntertainmentNAGamebankJPGT InteractivePAL\n"
+    },
+    {
+        "id": 84,
+        "name": "Doraemon: Nobita to Mittsu no Seireiseki\n",
+        "date": "1997-03-21JP\n",
+        "genre": "Epoch Co.\n"
+    },
+    {
+        "id": 85,
+        "name": "Doraemon 2: Nobita to Hikari no Shinden\n",
+        "date": "1998-12-11JP\n",
+        "genre": "Epoch Co.\n"
+    },
+    {
+        "id": 86,
+        "name": "Doraemon 3: Nobita no Machi SOS!\n",
+        "date": "2000-07-28JP\n",
+        "genre": "Epoch Co.\n"
+    },
+    {
+        "id": 87,
+        "name": "Dōbutsu no Mori\n",
+        "date": "2001-04-14JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 88,
+        "name": "Dr. Mario 64\n",
+        "date": "2001-04-08NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 89,
+        "name": "Dual Heroes\n",
+        "date": "1997-12-05JP\n",
+        "genre": "Hudson SoftJPElectro BrainNAGaga Interactive MediaPAL\n"
+    },
+    {
+        "id": 90,
+        "name": "Duck Dodgers Starring Daffy DuckDaffy Duck Starring As Duck DodgersPAL\n",
+        "date": "2000-09-16NA\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 91,
+        "name": "Duke Nukem 64\n",
+        "date": "1997-10-31NA\n",
+        "genre": "GT Interactive\n"
+    },
+    {
+        "id": 92,
+        "name": "Duke Nukem: Zero Hour\n",
+        "date": "1999-09-01NA\n",
+        "genre": "GT Interactive\n"
+    },
+    {
+        "id": 93,
+        "name": "Earthworm Jim 3D\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Rockstar GamesNA Interplay EntertainmentPAL\n"
+    },
+    {
+        "id": 94,
+        "name": "ECW Hardcore Revolution\n",
+        "date": "2000-02-17NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 95,
+        "name": "Eiko no Saint Andrews\n",
+        "date": "1996-11-29JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 96,
+        "name": "Elmo's Letter Adventure\n",
+        "date": "1999-11-15NA\n",
+        "genre": "NewKidCo\n"
+    },
+    {
+        "id": 97,
+        "name": "Elmo's Number Journey\n",
+        "date": "1999-11-30NA\n",
+        "genre": "NewKidCo\n"
+    },
+    {
+        "id": 98,
+        "name": "Excitebike 64\n",
+        "date": "2000-04-30NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 99,
+        "name": "Extreme-G\n",
+        "date": "1997-09-30NA\n",
+        "genre": "Acclaim EntertainmentNA/PALAcclaim JapanJP\n"
+    },
+    {
+        "id": 100,
+        "name": "Extreme-G 2Extreme-G2 XG2PAL\n",
+        "date": "1998-11-17NA\n",
+        "genre": "Acclaim EntertainmentNA/PALAcclaim JapanJP\n"
+    },
+    {
+        "id": 101,
+        "name": "F-1 World Grand Prix\n",
+        "date": "1998-07-31NA\n",
+        "genre": "Video System\n"
+    },
+    {
+        "id": 102,
+        "name": "F-1 World Grand Prix II\n",
+        "date": "1999-07-02PAL\n",
+        "genre": "Video System\n"
+    },
+    {
+        "id": 103,
+        "name": "F-Zero X\n",
+        "date": "1998-07-14JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 104,
+        "name": "F1 Pole Position 64Human Grand Prix: The New GenerationJP\n",
+        "date": "1997-03-28JP\n",
+        "genre": "Human EntertainmentJPUbi SoftNA/PAL\n"
+    },
+    {
+        "id": 105,
+        "name": "F1 Racing Championship\n",
+        "date": "2000-12-08PAL\n",
+        "genre": "Video System\n"
+    },
+    {
+        "id": 106,
+        "name": "Famista 64\n",
+        "date": "1997-11-28JP\n",
+        "genre": "Namco\n"
+    },
+    {
+        "id": 107,
+        "name": "FIFA Soccer 64FIFA 64PAL\n",
+        "date": "1997-02-28NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 108,
+        "name": "FIFA 99\n",
+        "date": "1998-11-30NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 109,
+        "name": "FIFA: Road to World Cup 98 FIFA: Road to World Cup 98 - World Cup e no MichiJP\n",
+        "date": "1997-11-30NA\n",
+        "genre": "EA SportsNA/PALElectronic Arts VictorJP\n"
+    },
+    {
+        "id": 110,
+        "name": "Fighter Destiny 2Kakutou Denshou: F-Cup ManiaxJP\n",
+        "date": "1999-08-27JP\n",
+        "genre": "ImagineerJPSouthPeak Interactive/XicatNA\n"
+    },
+    {
+        "id": 111,
+        "name": "Fighters DestinyFighting CupJP\n",
+        "date": "1998-01-31NA\n",
+        "genre": "Ocean SoftwareNAInfogramesPALImagineerJP\n"
+    },
+    {
+        "id": 112,
+        "name": "Fighting Force 64\n",
+        "date": "1999-04-30NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 113,
+        "name": "Flying DragonHiryū no Ken TwinJP\n",
+        "date": "1997-12-18JP\n",
+        "genre": "Culture BrainJPNatsumeNA/PAL\n"
+    },
+    {
+        "id": 114,
+        "name": "Forsaken 64ForsakenPAL\n",
+        "date": "1998-04-30NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 115,
+        "name": "Fox Sports College Hoops '99\n",
+        "date": "1998-10-31NA\n",
+        "genre": "Fox Sports Interactive\n"
+    },
+    {
+        "id": 116,
+        "name": "Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!\n",
+        "date": "2000-09-27JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 117,
+        "name": "G.A.S.P!! Fighters' NEXTreamDeadly ArtsNA\n",
+        "date": "1998-03-26JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 118,
+        "name": "Gauntlet Legends\n",
+        "date": "1999-08-31NA\n",
+        "genre": "Midway Home EntertainmentNAMidway GamesPALEpoch Co.JP\n"
+    },
+    {
+        "id": 119,
+        "name": "Getter Love!!: Chō Renai Party Game Tanjō\n",
+        "date": "1998-12-04JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 120,
+        "name": "Gex 3: Deep Cover GeckoGex: Deep Cover GeckoPAL\n",
+        "date": "1999-09-28NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 121,
+        "name": "Gex 64: Enter the Gecko\n",
+        "date": "1998-08-01NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 122,
+        "name": "Glover\n",
+        "date": "1998-11-16NA\n",
+        "genre": "Hasbro Interactive\n"
+    },
+    {
+        "id": 123,
+        "name": "Goemon Mononoke Sugoroku\n",
+        "date": "1999-12-25JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 124,
+        "name": "Golden Nugget 64\n",
+        "date": "1998-12-01NA\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 125,
+        "name": "GoldenEye 007\n",
+        "date": "1997-08-23JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 126,
+        "name": "GT 64: Championship EditionCity Tour GrandPrix: Zen Nihon GT SenshukenJP\n",
+        "date": "1998-04-14PAL\n",
+        "genre": "Infogrames UKPALOcean of AmericaNAImagineerJP\n"
+    },
+    {
+        "id": 127,
+        "name": "Hamster Monogatari 64\n",
+        "date": "2001-04-06JP\n",
+        "genre": "Culture Brain\n"
+    },
+    {
+        "id": 128,
+        "name": "Harukanaru Augusta Masters '98\n",
+        "date": "1997-12-26JP\n",
+        "genre": "T&E Soft\n"
+    },
+    {
+        "id": 129,
+        "name": "Harvest Moon 64Bokujō Monogatari 2JP\n",
+        "date": "1999-02-05JP\n",
+        "genre": "Pack-In-SoftJPNatsumeNA\n"
+    },
+    {
+        "id": 130,
+        "name": "Heiwa Pachinko World 64\n",
+        "date": "1997-11-28JP\n",
+        "genre": "Shouei System\n"
+    },
+    {
+        "id": 131,
+        "name": "Hercules: The Legendary Journeys\n",
+        "date": "2000-10-13PAL\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 132,
+        "name": "Hexen\n",
+        "date": "1997-05-31NA\n",
+        "genre": "id Software/GT InteractiveNA/PALGamebankJP\n"
+    },
+    {
+        "id": 133,
+        "name": "Hey You, Pikachu!Pikachū Genki DechūJP\n",
+        "date": "1998-12-12JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 134,
+        "name": "Hot Wheels Turbo Racing\n",
+        "date": "1999-05-11PAL\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 135,
+        "name": "HSV Adventure Racing\n",
+        "date": "1999AUS\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 136,
+        "name": "Hybrid Heaven\n",
+        "date": "1999-08-05JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 137,
+        "name": "Hydro Thunder\n",
+        "date": "2000-02-29NA\n",
+        "genre": "Midway Home EntertainmentNAMidway GamesPAL\n"
+    },
+    {
+        "id": 138,
+        "name": "Ide Yosuke no Mahjong Juku\n",
+        "date": "2000-04-21JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 139,
+        "name": "Iggy's Reckin' BallsIggy-kun no Bura Bura PoyonJP\n",
+        "date": "1998-07-31NA\n",
+        "genre": "Acclaim EntertainmentNA/PALAcclaim JapanJP\n"
+    },
+    {
+        "id": 140,
+        "name": "In-Fisherman Bass Hunter 64Bass Hunter 64PAL\n",
+        "date": "1999-07-30NA\n",
+        "genre": "Take-Two Interactive\n"
+    },
+    {
+        "id": 141,
+        "name": "Indiana Jones and the Infernal Machine\n",
+        "date": "2000-12-15NA\n",
+        "genre": "LucasArts\n"
+    },
+    {
+        "id": 142,
+        "name": "Indy Racing 2000\n",
+        "date": "2000-06-09NA\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 143,
+        "name": "International Superstar Soccer 98Jikkyō World Soccer: World Cup France '98JP\n",
+        "date": "1998-06-04JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 144,
+        "name": "International Superstar Soccer 2000Jikkyō J-League 1999: Perfect Striker 2JP\n",
+        "date": "1999-07-29JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 145,
+        "name": "International Superstar Soccer 64Jikkyō J-League Perfect StrikerJP\n",
+        "date": "1996-12-20JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 146,
+        "name": "International Track & Field 2000International Track & Field: Summer GamesPALGanbare! Nippon! Olympics 2000 JP\n",
+        "date": "2000-06-01NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 147,
+        "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettehan!\n",
+        "date": "2000-03-31JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 148,
+        "name": "J-League Dynamite Soccer 64\n",
+        "date": "1997-09-05JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 149,
+        "name": "J-League Eleven Beat 1997\n",
+        "date": "1997-10-24JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 150,
+        "name": "J. League Live 64\n",
+        "date": "1997-03-28JP\n",
+        "genre": "Electronic Arts Victor\n"
+    },
+    {
+        "id": 151,
+        "name": "J-League Tactics Soccer\n",
+        "date": "1999-01-15JP\n",
+        "genre": "ASCII Entertainment\n"
+    },
+    {
+        "id": 152,
+        "name": "Jango Simulation Mahjong-do 64\n",
+        "date": "1997-07-25JP\n",
+        "genre": "Video System\n"
+    },
+    {
+        "id": 153,
+        "name": "Jeopardy!\n",
+        "date": "1998-02-25NA\n",
+        "genre": "Take-Two Interactive\n"
+    },
+    {
+        "id": 154,
+        "name": "Jeremy McGrath Supercross 2000\n",
+        "date": "2000-02-28NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 155,
+        "name": "Jet Force GeminiStar TwinsJP\n",
+        "date": "1999-10-11NA\n",
+        "genre": "Rare\n"
+    },
+    {
+        "id": 156,
+        "name": "Jikkyō GI Stable\n",
+        "date": "1999-04-28JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 157,
+        "name": "Jikkyō Powerful Pro Yakyu 2000\n",
+        "date": "2000-04-29JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 158,
+        "name": "Jikkyō Powerful Pro Yakyu 4\n",
+        "date": "1997-03-14JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 159,
+        "name": "Jikkyō Powerful Pro Yakyu 5\n",
+        "date": "1998-03-26JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 160,
+        "name": "Jikkyō Powerful Pro Yakyu 6\n",
+        "date": "1999-03-25JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 161,
+        "name": "Jikkyō Powerful Pro Yakyu Basic-ban 2001\n",
+        "date": "2001-03-29JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 162,
+        "name": "Jikkyō World Soccer 3\n",
+        "date": "1997-09-18JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 163,
+        "name": "Jinsei Game 64\n",
+        "date": "1999-03-19JP\n",
+        "genre": "Takara\n"
+    },
+    {
+        "id": 164,
+        "name": "John Romero's Daikatana\n",
+        "date": "2000-04-07JP\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 165,
+        "name": "Ken Griffey Jr.'s Slugfest\n",
+        "date": "1999-05-10NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 166,
+        "name": "Killer Instinct Gold\n",
+        "date": "1996-11-25NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 167,
+        "name": "Kira tto Kaiketsu! 64 Tanteidan\n",
+        "date": "1998-10-23JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 168,
+        "name": "Kirby 64: The Crystal ShardsHoshi no Kirby 64JP\n",
+        "date": "2000-03-24JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 169,
+        "name": "Knife Edge: Nose GunnerKnife EdgePAL\n",
+        "date": "1998-11-10NA\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 170,
+        "name": "Knockout Kings 2000Box Champions 2000GER\n",
+        "date": "1999-10-03NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 171,
+        "name": "Kobe Bryant in NBA Courtside\n",
+        "date": "1998-04-27NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 172,
+        "name": "Last Legion UX\n",
+        "date": "1999-05-28JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 173,
+        "name": "The Legend of Zelda: Majora's Mask\n",
+        "date": "2000-04-27JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 174,
+        "name": "The Legend of Zelda: Ocarina of Time\n",
+        "date": "1998-11-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 175,
+        "name": "Lego Racers\n",
+        "date": "1999-10-12NA\n",
+        "genre": "Lego Media\n"
+    },
+    {
+        "id": 176,
+        "name": "Lode Runner 3-D\n",
+        "date": "1999-03-26NA\n",
+        "genre": "InfogramesNA/PALBanprestoJP\n"
+    },
+    {
+        "id": 177,
+        "name": "Mace: The Dark Age\n",
+        "date": "1997-10NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 178,
+        "name": "Madden Football 64\n",
+        "date": "1997-10-31NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 179,
+        "name": "Madden NFL 2000\n",
+        "date": "1999-08-31NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 180,
+        "name": "Madden NFL 2001\n",
+        "date": "2000-08-28NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 181,
+        "name": "Madden NFL 2002\n",
+        "date": "2001-09-12NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 182,
+        "name": "Madden NFL 99\n",
+        "date": "1998-11-01NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 183,
+        "name": "Magical Tetris ChallengeMagical Tetris Challenge Featuring MickeyJP\n",
+        "date": "1998-11-20JP\n",
+        "genre": "CapcomJP/NAActivisionPAL\n"
+    },
+    {
+        "id": 184,
+        "name": "Mahjong 64\n",
+        "date": "1997-04-04JP\n",
+        "genre": "Koei\n"
+    },
+    {
+        "id": 185,
+        "name": "Mahjong Horoki Classic\n",
+        "date": "1997-08-01JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 186,
+        "name": "Mahjong Master\n",
+        "date": "1996-12-20JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 187,
+        "name": "Major League Baseball Featuring Ken Griffey Jr.\n",
+        "date": "1998-05-31NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 188,
+        "name": "Mario GolfMario Golf 64JP\n",
+        "date": "1999-06-11JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 189,
+        "name": "Mario Kart 64\n",
+        "date": "1996-12-14JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 190,
+        "name": "Mario no Photopi\n",
+        "date": "1998-12-02JP\n",
+        "genre": "Tokyo Electron\n"
+    },
+    {
+        "id": 191,
+        "name": "Mario Party\n",
+        "date": "1998-12-18JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 192,
+        "name": "Mario Party 2\n",
+        "date": "1999-12-17JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 193,
+        "name": "Mario Party 3\n",
+        "date": "2000-12-07JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 194,
+        "name": "Mario TennisMario Tennis 64JP\n",
+        "date": "2000-07-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 195,
+        "name": "Mega Man 64RockMan Dash: Hagane no BoukenshinJP\n",
+        "date": "2000-11-22JP\n",
+        "genre": "Capcom\n"
+    },
+    {
+        "id": 196,
+        "name": "Mia Hamm Soccer 64\n",
+        "date": "2000-11-09NA\n",
+        "genre": "SouthPeak Interactive\n"
+    },
+    {
+        "id": 197,
+        "name": "Michael Owen's WLS 2000UKRTL World League Soccer 2000GERTelefoot Soccer 2000FRA\n",
+        "date": "2000-11-10PAL\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 198,
+        "name": "Mickey's Speedway USAMickey no Racing Challenge USAJP\n",
+        "date": "2000-11-13NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 199,
+        "name": "Micro Machines 64 Turbo\n",
+        "date": "1999-03-24NA\n",
+        "genre": "Midway Home EntertainmentNACodemastersPAL\n"
+    },
+    {
+        "id": 200,
+        "name": "Midway's Greatest Arcade Hits: Volume 1\n",
+        "date": "2000-11-14NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 201,
+        "name": "Mike Piazza's Strike Zone\n",
+        "date": "1998-06-16NA\n",
+        "genre": "GT Interactive\n"
+    },
+    {
+        "id": 202,
+        "name": "Milo's Astro Lanes\n",
+        "date": "1998-11-24NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 203,
+        "name": "Mischief MakersYuke-Yuke!! Trouble MakersJP\n",
+        "date": "1997-06-27JP\n",
+        "genre": "EnixJPNintendoNA/PAL\n"
+    },
+    {
+        "id": 204,
+        "name": "Mission Impossible\n",
+        "date": "1998-07-18NA\n",
+        "genre": "Ocean SoftwareNAInfogramesPAL\n"
+    },
+    {
+        "id": 205,
+        "name": "Monopoly\n",
+        "date": "1999-12-18NA\n",
+        "genre": "Hasbro Interactive\n"
+    },
+    {
+        "id": 206,
+        "name": "Monster Truck Madness 64\n",
+        "date": "1999-06-30NA\n",
+        "genre": "MicrosoftRockstar Games\n"
+    },
+    {
+        "id": 207,
+        "name": "Morita Shogi 64\n",
+        "date": "1998-04-03JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 208,
+        "name": "Mortal Kombat 4\n",
+        "date": "1998-06-23NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 209,
+        "name": "Mortal Kombat Mythologies: Sub-Zero\n",
+        "date": "1997-12-08NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 210,
+        "name": "Mortal Kombat Trilogy\n",
+        "date": "1996-11-11NA\n",
+        "genre": "WilliamsNAGT InteractivePAL\n"
+    },
+    {
+        "id": 211,
+        "name": "MRC: Multi-Racing Championship Multi-Racing ChampionshipJP\n",
+        "date": "1997-07-18JP\n",
+        "genre": "ImagineerJPOcean SoftwareNA/PAL\n"
+    },
+    {
+        "id": 212,
+        "name": "Ms. Pac-Man Maze Madness\n",
+        "date": "2000-11-12NA\n",
+        "genre": "Namco\n"
+    },
+    {
+        "id": 213,
+        "name": "Mystical Ninja Starring GoemonGanbare Goemon: Neo Momoyama Bakufu no OdoriJP\n",
+        "date": "1997-08-07JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 214,
+        "name": "Mystical Ninja 2 Starring GoemonGoemon's Great AdventureNAGanbare Goemon Derodero Dōchū Obake Tenko MoriJP\n",
+        "date": "1998-12-23JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 215,
+        "name": "Nagano Winter Olympics '98Hyper Olympics in NaganoJP\n",
+        "date": "1997-12-18JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 216,
+        "name": "Namco Museum 64\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Namco\n"
+    },
+    {
+        "id": 217,
+        "name": "NASCAR '99\n",
+        "date": "1998-09-11NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 218,
+        "name": "NASCAR 2000\n",
+        "date": "1999-10-02NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 219,
+        "name": "NBA Courtside 2: Featuring Kobe Bryant\n",
+        "date": "1999-11-08NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 220,
+        "name": "NBA Hangtime\n",
+        "date": "1997-01-17NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 221,
+        "name": "NBA In The Zone '98NBA Pro '98PAL\n",
+        "date": "1998-01-29JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 222,
+        "name": "NBA In The Zone '99NBA Pro '99PALNBA in the Zone 2JP\n",
+        "date": "1999-04-08NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 223,
+        "name": "NBA In The Zone 2000\n",
+        "date": "2000-02-18NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 224,
+        "name": "NBA Jam 2000\n",
+        "date": "1999-11-30NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 225,
+        "name": "NBA Jam 99\n",
+        "date": "1998-11-30NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 226,
+        "name": "NBA Live 2000\n",
+        "date": "1999-10-31NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 227,
+        "name": "NBA Live 99\n",
+        "date": "1998-11-04NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 228,
+        "name": "NBA Showtime: NBA on NBC\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 229,
+        "name": "Neon Genesis Evangelion\n",
+        "date": "1999-06-25JP\n",
+        "genre": "Bandai Games\n"
+    },
+    {
+        "id": 230,
+        "name": "The New Tetris\n",
+        "date": "1999-07-31NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 231,
+        "name": "NFL Blitz\n",
+        "date": "1998-09-09NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 232,
+        "name": "NFL Blitz 2000\n",
+        "date": "1999-08-17NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 233,
+        "name": "NFL Blitz 2001\n",
+        "date": "2000-09-14NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 234,
+        "name": "NFL Blitz Special Edition\n",
+        "date": "2001-11-28NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 235,
+        "name": "NFL QB Club 2001\n",
+        "date": "2000-08-24NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 236,
+        "name": "NFL Quarterback Club 2000\n",
+        "date": "1999-08-26NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 237,
+        "name": "NFL Quarterback Club 98\n",
+        "date": "1997-10-24NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 238,
+        "name": "NFL Quarterback Club 99\n",
+        "date": "1998-11-10NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 239,
+        "name": "NHL 99\n",
+        "date": "1998-10-01NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 240,
+        "name": "NHL Blades of Steel '99NHL Pro 99PAL\n",
+        "date": "1999-04-05NA\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 241,
+        "name": "NHL Breakaway 98\n",
+        "date": "1998-02-26\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 242,
+        "name": "NHL Breakaway 99\n",
+        "date": "1998-11-30NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 243,
+        "name": "Nightmare Creatures\n",
+        "date": "1998-11NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 244,
+        "name": "Nintama Rantarō 64 Game Gallery\n",
+        "date": "2000-04-21JP\n",
+        "genre": "Culture Brain\n"
+    },
+    {
+        "id": 245,
+        "name": "Nuclear Strike 64\n",
+        "date": "1999-11-30NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 246,
+        "name": "Nushi Tsuri 64\n",
+        "date": "1998-11-27JP\n",
+        "genre": "Pack-In-Soft\n"
+    },
+    {
+        "id": 247,
+        "name": "Nushi Tsuri 64: Shiokaze Ni Notte\n",
+        "date": "2000-05-26JP\n",
+        "genre": "Victor Interactive Software\n"
+    },
+    {
+        "id": 248,
+        "name": "Off Road Challenge\n",
+        "date": "1998-06NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 249,
+        "name": "Ogre Battle 64: Person of Lordly Caliber\n",
+        "date": "1999-07-14JP\n",
+        "genre": "Atlus USANANintendoJP\n"
+    },
+    {
+        "id": 250,
+        "name": "Olympic Hockey '98Olympic Hockey Nagano '98JP\n",
+        "date": "1998-02-23NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePALKonamiJP\n"
+    },
+    {
+        "id": 251,
+        "name": "Onegai Monsters\n",
+        "date": "1999-04-09JP\n",
+        "genre": "Bottom Up\n"
+    },
+    {
+        "id": 252,
+        "name": "Pachinko 365 Nichi\n",
+        "date": "1998-05-29JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 253,
+        "name": "Paper MarioMario StoryJP\n",
+        "date": "2000-08-11JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 254,
+        "name": "Paperboy\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Midway Home EntertainmentNAMidway GamesPAL\n"
+    },
+    {
+        "id": 255,
+        "name": "Parlor! Pro 64: Pachinko Jikki Simulation\n",
+        "date": "1999-01-29JP\n",
+        "genre": "Telenet Japan\n"
+    },
+    {
+        "id": 256,
+        "name": "PD Ultraman Battle Collection 64\n",
+        "date": "1999-07-16JP\n",
+        "genre": "Bandai Games\n"
+    },
+    {
+        "id": 257,
+        "name": "Penny RacersChoro Q 64JP\n",
+        "date": "1998-07-17JP\n",
+        "genre": "TakaraJPTHQNA/PAL\n"
+    },
+    {
+        "id": 258,
+        "name": "Perfect Dark\n",
+        "date": "2000-05-22NA\n",
+        "genre": "Rare\n"
+    },
+    {
+        "id": 259,
+        "name": "PGA European Tour GolfPGA European TourNA\n",
+        "date": "2000-05PAL\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 260,
+        "name": "Pilotwings 64\n",
+        "date": "1996-06-23JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 261,
+        "name": "Pocket Monsters Stadium\n",
+        "date": "1998-08-01JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 262,
+        "name": "Pokémon Puzzle League\n",
+        "date": "2000-09-25NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 263,
+        "name": "Pokémon Snap\n",
+        "date": "1999-03-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 264,
+        "name": "Pokémon StadiumPokémon Stadium 2JP\n",
+        "date": "1999-04-30JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 265,
+        "name": "Pokémon Stadium 2Pokémon Stadium Gold SilverJP\n",
+        "date": "2000-12-14JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 266,
+        "name": "Polaris SnoCross\n",
+        "date": "2000-12-27NA\n",
+        "genre": "Vatical Entertainment\n"
+    },
+    {
+        "id": 267,
+        "name": "Power League 64\n",
+        "date": "1997-08-08JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 268,
+        "name": "Power Rangers Lightspeed Rescue\n",
+        "date": "2000-09-28NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 269,
+        "name": "The Powerpuff Girls: Chemical X-Traction\n",
+        "date": "2001-10-14NA\n",
+        "genre": "BAM! Entertainment\n"
+    },
+    {
+        "id": 270,
+        "name": "Premier Manager 64\n",
+        "date": "1999-08PAL\n",
+        "genre": "Gremlin Interactive\n"
+    },
+    {
+        "id": 271,
+        "name": "Pro Mahjong Kiwame 64\n",
+        "date": "1997-11-21JP\n",
+        "genre": "Athena\n"
+    },
+    {
+        "id": 272,
+        "name": "Pro Shinan Mahjong Tsuwamono 64: Jansō Battle ni Chōsen\n",
+        "date": "1999-11-05JP\n",
+        "genre": "Culture Brain\n"
+    },
+    {
+        "id": 273,
+        "name": "Puyo Puyo Sun 64\n",
+        "date": "1997-10-31JP\n",
+        "genre": "Compile\n"
+    },
+    {
+        "id": 274,
+        "name": "Puyo Puyo~n Party\n",
+        "date": "1999-12-03JP\n",
+        "genre": "Compile\n"
+    },
+    {
+        "id": 275,
+        "name": "Quake 64\n",
+        "date": "1998-03-24NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 276,
+        "name": "Quake II\n",
+        "date": "1999-02-07PAL\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 277,
+        "name": "Quest 64Holy Magic CenturyPALEltale MonstersJP\n",
+        "date": "1998-06-01NA\n",
+        "genre": "THQNAKonamiPALImagineerJP\n"
+    },
+    {
+        "id": 278,
+        "name": "Rakugakids\n",
+        "date": "1998-07-23JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 279,
+        "name": "Racing Simulation: Monaco Grand PrixUKMonaco Grand Prix NAMonaco Grand Prix: Racing Simulation 2FRARacing Simulation 2 GER\n",
+        "date": "1999-06PAL\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 280,
+        "name": "Rally Challenge 2000Rally '99JP\n",
+        "date": "1999-08-06JP\n",
+        "genre": "ImagineerJPSouthPeak Interactive/XicatNA\n"
+    },
+    {
+        "id": 281,
+        "name": "Rampage 2: Universal Tour\n",
+        "date": "1999-03NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 282,
+        "name": "Rampage World Tour\n",
+        "date": "1998-03-30NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 283,
+        "name": "Rat Attack\n",
+        "date": "2000-04-21PAL\n",
+        "genre": "Mindscape\n"
+    },
+    {
+        "id": 284,
+        "name": "Rayman 2: The Great Escape\n",
+        "date": "1999-10-29PAL\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 285,
+        "name": "Razor Freestyle Scooter\n",
+        "date": "2001-11-27NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 286,
+        "name": "Re-Volt\n",
+        "date": "1999-08-18NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 287,
+        "name": "Ready 2 Rumble Boxing\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Midway Home EntertainmentNAMidway GamesPAL\n"
+    },
+    {
+        "id": 288,
+        "name": "Ready 2 Rumble Boxing: Round 2\n",
+        "date": "2000-11-13NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 289,
+        "name": "Resident Evil 2Biohazard 2JP\n",
+        "date": "1999-10-31NA\n",
+        "genre": "CapcomNA/JPVirgin InteractiveEU\n"
+    },
+    {
+        "id": 290,
+        "name": "Ridge Racer 64\n",
+        "date": "2000-02-14NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 291,
+        "name": "Road Rash 64\n",
+        "date": "1999-09-27NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 292,
+        "name": "Roadsters\n",
+        "date": "1999-11-30NA\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 293,
+        "name": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel\n",
+        "date": "1999-12-24JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 294,
+        "name": "Robotron 64\n",
+        "date": "1998-01-05NA\n",
+        "genre": "Crave EntertainmentGT InteractivePAL\n"
+    },
+    {
+        "id": 295,
+        "name": "Rocket: Robot on Wheels\n",
+        "date": "1999-10-31NA\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 296,
+        "name": "Rugrats in Paris - The Movie\n",
+        "date": "2000-11-12NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 297,
+        "name": "Rugrats: Scavenger HuntRugrats: Treasure HuntPAL\n",
+        "date": "1999-06-29NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 298,
+        "name": "Rush 2: Extreme Racing USARush 2: Extreme RacingPAL\n",
+        "date": "1998-11-10-NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 299,
+        "name": "S.C.A.R.S.\n",
+        "date": "1998-12-04NA\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 300,
+        "name": "Saikyō Habu Shōgi\n",
+        "date": "1996-06-23JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 301,
+        "name": "San Francisco Rush 2049\n",
+        "date": "2000-09-07NA\n",
+        "genre": "Midway Home EntertainmentNAMidway GamesPAL\n"
+    },
+    {
+        "id": 302,
+        "name": "San Francisco Rush: Extreme Racing\n",
+        "date": "1997-11-08NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 303,
+        "name": "Scooby-Doo! Classic Creep Capers\n",
+        "date": "2000-11-30NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 304,
+        "name": "S.D. Hiryū no Ken Twin\n",
+        "date": "1999-01-29JP\n",
+        "genre": "Culture Brain\n"
+    },
+    {
+        "id": 305,
+        "name": "Shadow Man\n",
+        "date": "1999-08-31NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 306,
+        "name": "Shadowgate 64: Trials of the Four Towers\n",
+        "date": "1999-05-31NA\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 307,
+        "name": "Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits\n",
+        "date": "1998-01-04JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 308,
+        "name": "Shin Nippon Pro Wrestling: Toukon Road 2- Next Generation\n",
+        "date": "1998-12-26JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 309,
+        "name": "Sim City 2000\n",
+        "date": "1998-01-30JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 310,
+        "name": "Sin and PunishmentTsumi to Batsu: Hoshi no KeishōshaJP\n",
+        "date": "2000-11-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 311,
+        "name": "Snowboard KidsSnobow KidsJP\n",
+        "date": "1997-12-12JP\n",
+        "genre": "Atlus\n"
+    },
+    {
+        "id": 312,
+        "name": "Snowboard Kids 2Chou Snobow KidsJP\n",
+        "date": "1999-02-19JP\n",
+        "genre": "Atlus\n"
+    },
+    {
+        "id": 313,
+        "name": "South Park\n",
+        "date": "1998-12-21NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 314,
+        "name": "South Park Rally\n",
+        "date": "2000-02-28NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 315,
+        "name": "South Park: Chef's Luv Shack\n",
+        "date": "1999-10-12NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 316,
+        "name": "Space Invaders\n",
+        "date": "1999-11-30NA\n",
+        "genre": "TaitoActivision\n"
+    },
+    {
+        "id": 317,
+        "name": "Space Station Silicon Valley\n",
+        "date": "1998-10-21NA\n",
+        "genre": "Take-Two Interactive\n"
+    },
+    {
+        "id": 318,
+        "name": "Spider-Man\n",
+        "date": "2000-11-21NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 319,
+        "name": "Star Fox 64Lylat WarsPAL\n",
+        "date": "1997-04-27JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 320,
+        "name": "Star Soldier: Vanishing Earth\n",
+        "date": "1998-07-10JP\n",
+        "genre": "Hudson SoftJPElectro BrainNA\n"
+    },
+    {
+        "id": 321,
+        "name": "Star Wars Episode I: Battle for Naboo\n",
+        "date": "2000-12-18NA\n",
+        "genre": "LucasArtsNATHQPAL\n"
+    },
+    {
+        "id": 322,
+        "name": "Star Wars Episode I: Racer\n",
+        "date": "1999-05-18NA\n",
+        "genre": "LucasArts\n"
+    },
+    {
+        "id": 323,
+        "name": "Star Wars: Rogue SquadronStar Wars: Shutsugeki! Rogue ChuutaiJP\n",
+        "date": "1998-12-07NA\n",
+        "genre": "LucasArtsNA/JPNintendoPAL\n"
+    },
+    {
+        "id": 324,
+        "name": "Star Wars: Shadows of the EmpireStar Wars: Teikoku no KageJP\n",
+        "date": "1996-12-03NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 325,
+        "name": "StarCraft 64\n",
+        "date": "2000-06-12NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 326,
+        "name": "Starshot: Space Circus Fever\n",
+        "date": "1998-12-04PAL\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 327,
+        "name": "Stunt Racer 64\n",
+        "date": "2000-10-01NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 328,
+        "name": "Super B-Daman: Battle Phoenix 64\n",
+        "date": "1998-07-24JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 329,
+        "name": "Super Bowling\n",
+        "date": "1999-03-26JP\n",
+        "genre": "AthenaJPUFO Interactive GamesNA\n"
+    },
+    {
+        "id": 330,
+        "name": "Super Mario 64\n",
+        "date": "1996-06-23JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 331,
+        "name": "Super Mario 64 Shindō Pak Taiō Version\n",
+        "date": "1997-07-18JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 332,
+        "name": "Super Robot Spirits\n",
+        "date": "1998-07-17JP\n",
+        "genre": "Banpresto\n"
+    },
+    {
+        "id": 333,
+        "name": "Super Robot Wars 64\n",
+        "date": "1999-10-29JP\n",
+        "genre": "Banpresto\n"
+    },
+    {
+        "id": 334,
+        "name": "Super Smash Bros.Nintendo All Star! Dai Rantō Smash Brothers\n",
+        "date": "1999-01-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 335,
+        "name": "Supercross 2000\n",
+        "date": "1999-10-31NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 336,
+        "name": "Superman: The New Superman AdventuresSupermanPAL\n",
+        "date": "1999-05-31NA\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 337,
+        "name": "Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō\n",
+        "date": "1998-03-26JP\n",
+        "genre": "Konami\n"
+    },
+    {
+        "id": 338,
+        "name": "Taz Express\n",
+        "date": "2000-08-01PAL\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 339,
+        "name": "Tetris 64\n",
+        "date": "1998-11-13JP\n",
+        "genre": "SETA Corporation\n"
+    },
+    {
+        "id": 340,
+        "name": "Tetrisphere\n",
+        "date": "1997-08-11NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 341,
+        "name": "Tigger's Honey Hunt\n",
+        "date": "2000-11-01NA\n",
+        "genre": "NewKidCoNAUbi SoftPAL\n"
+    },
+    {
+        "id": 342,
+        "name": "Tom Clancy's Rainbow Six\n",
+        "date": "1999-11-17NA\n",
+        "genre": "Red Storm Entertainment\n"
+    },
+    {
+        "id": 343,
+        "name": "Tom and Jerry in Fists of Furry\n",
+        "date": "2000-08-12PAL\n",
+        "genre": "Ubi SoftPALNewKidCoNA\n"
+    },
+    {
+        "id": 344,
+        "name": "Tonic Trouble\n",
+        "date": "1999-08-31NA\n",
+        "genre": "Ubi Soft\n"
+    },
+    {
+        "id": 345,
+        "name": "Tony Hawk's Pro SkaterTony Hawk's SkateboardingPAL\n",
+        "date": "2000-02-29NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 346,
+        "name": "Tony Hawk's Pro Skater 2\n",
+        "date": "2001-08-21NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 347,
+        "name": "Tony Hawk's Pro Skater 3\n",
+        "date": "2002-08-20NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 348,
+        "name": "Top Gear Hyper-Bike\n",
+        "date": "2000-03-17JPN\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 349,
+        "name": "Top Gear Overdrive\n",
+        "date": "1998-11-23NA\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 350,
+        "name": "Top Gear Rally\n",
+        "date": "1997-10NA\n",
+        "genre": "Midway Home EntertainmentNAKemcoPAL/JP\n"
+    },
+    {
+        "id": 351,
+        "name": "Top Gear Rally 2\n",
+        "date": "1999-12-03NA\n",
+        "genre": "Kemco\n"
+    },
+    {
+        "id": 352,
+        "name": "Transformers: Beast Wars TransmetalsTransformers: Beast Wars Metals 64JP\n",
+        "date": "1999-10-01JP\n",
+        "genre": "TakaraJPBay Area MultimediaNA\n"
+    },
+    {
+        "id": 353,
+        "name": "Triple Play 2000\n",
+        "date": "1999-03-22NA\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 354,
+        "name": "Turok 2: Seeds of EvilViolence Killer: Turok New GenerationJP\n",
+        "date": "1998-12-10NA\n",
+        "genre": "Acclaim EntertainmentNA/PALgemziJP\n"
+    },
+    {
+        "id": 355,
+        "name": "Turok 3: Shadow of Oblivion\n",
+        "date": "2000-09-06NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 356,
+        "name": "Turok: Dinosaur HunterJikuu Senshi TurokJP\n",
+        "date": "1997-03-04NA/PAL\n",
+        "genre": "Acclaim EntertainmentAcclaim JapanJP\n"
+    },
+    {
+        "id": 357,
+        "name": "Turok: Rage Wars\n",
+        "date": "1999-11-23NA\n",
+        "genre": "Acclaim Entertainment\n"
+    },
+    {
+        "id": 358,
+        "name": "Twisted Edge Extreme SnowboardingTwisted Edge SnowboardingPALKing Hill 64: Extreme SnowboardingJP\n",
+        "date": "1998-11-10NA\n",
+        "genre": "KemcoJP/PALMidway Home EntertainmentNA\n"
+    },
+    {
+        "id": 359,
+        "name": "Ucchan Nanchan no Hono no Challenge: Denryu Ira Ira Bo\n",
+        "date": "1997-12-19JP\n",
+        "genre": "Hudson Soft\n"
+    },
+    {
+        "id": 360,
+        "name": "V-Rally: Edition '99\n",
+        "date": "1998-12-07PAL\n",
+        "genre": "InfogramesPAL/NASpikeJP\n"
+    },
+    {
+        "id": 361,
+        "name": "Vigilante 8\n",
+        "date": "1999-03-17NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 362,
+        "name": "Vigilante 8: 2nd Offense\n",
+        "date": "2000-02-01NA\n",
+        "genre": "Activision\n"
+    },
+    {
+        "id": 363,
+        "name": "Virtual Chess 64\n",
+        "date": "1998-06-10NA\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 364,
+        "name": "Virtual Pool 64\n",
+        "date": "1998-12-17NA\n",
+        "genre": "Crave Entertainment\n"
+    },
+    {
+        "id": 365,
+        "name": "Virtual Pro Wrestling 2: Ōdō Keishō\n",
+        "date": "2000-01-28JP\n",
+        "genre": "Asmik Ace Entertainment\n"
+    },
+    {
+        "id": 366,
+        "name": "Virtual Pro Wrestling 64\n",
+        "date": "1997-12-19JP\n",
+        "genre": "Asmik Ace Entertainment\n"
+    },
+    {
+        "id": 367,
+        "name": "Waialae Country Club: True Golf Classics\n",
+        "date": "1998-07-29NA\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 368,
+        "name": "War Gods\n",
+        "date": "1997-05-21NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 369,
+        "name": "Wave Race 64\n",
+        "date": "1996-09-27JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 370,
+        "name": "Wave Race 64 Shindō Pak Taiō Version\n",
+        "date": "1997-07-18JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 371,
+        "name": "Wayne Gretzky's 3D Hockey\n",
+        "date": "1996-11-11NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePALGameBankJP\n"
+    },
+    {
+        "id": 372,
+        "name": "Wayne Gretzky's 3D Hockey '98\n",
+        "date": "1997-12-03NA\n",
+        "genre": "Midway Home EntertainmentNAGT InteractivePAL\n"
+    },
+    {
+        "id": 373,
+        "name": "WCW Backstage Assault\n",
+        "date": "2000-12-12NA\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 374,
+        "name": "WCW Mayhem\n",
+        "date": "1999-09-21NA\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 375,
+        "name": "WCW Nitro\n",
+        "date": "1999-02-01NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 376,
+        "name": "WCW vs. nWo: World Tour\n",
+        "date": "1997-11-30NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 377,
+        "name": "WCW/nWo Revenge\n",
+        "date": "1998-10-26NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 378,
+        "name": "Wetrix\n",
+        "date": "1998-06-12NA\n",
+        "genre": "Ocean SoftwareNA/PALImagineerJP\n"
+    },
+    {
+        "id": 379,
+        "name": "Wheel of Fortune\n",
+        "date": "1997-12-02NA\n",
+        "genre": "Take-Two Interactive\n"
+    },
+    {
+        "id": 380,
+        "name": "WinBack: Covert OperationsWinbackJPOperation: WinbackPAL\n",
+        "date": "1999-09-23JP\n",
+        "genre": "KoeiJP/NAVirgin InteractivePAL\n"
+    },
+    {
+        "id": 381,
+        "name": "Wipeout 64\n",
+        "date": "1998-11-03NA\n",
+        "genre": "Midway Home Entertainment\n"
+    },
+    {
+        "id": 382,
+        "name": "Wonder Project J2: Koruro no Mori no Jozetto\n",
+        "date": "1996-11-22JP\n",
+        "genre": "Enix\n"
+    },
+    {
+        "id": 383,
+        "name": "World Cup 98Frankreich 98: Die Fussball-WM GERCopa del Mundo: Francia 98SPA\n",
+        "date": "1998-05-18WW\n",
+        "genre": "EA Sports\n"
+    },
+    {
+        "id": 384,
+        "name": "World Driver Championship\n",
+        "date": "1999-05-31NA\n",
+        "genre": "Midway Home EntertainmentNAMidway Games LtdPAL\n"
+    },
+    {
+        "id": 385,
+        "name": "The World Is Not Enough\n",
+        "date": "2000-10-17NA\n",
+        "genre": "Electronic Arts\n"
+    },
+    {
+        "id": 386,
+        "name": "Worms Armageddon\n",
+        "date": "1999-12-11PAL\n",
+        "genre": "Infogrames\n"
+    },
+    {
+        "id": 387,
+        "name": "WWF Attitude\n",
+        "date": "1999-07-31NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 388,
+        "name": "WWF No Mercy\n",
+        "date": "2000-11-17NA\n",
+        "genre": "THQ\n"
+    },
+    {
+        "id": 389,
+        "name": "WWF War Zone\n",
+        "date": "1998-08-11NA\n",
+        "genre": "Acclaim Sports\n"
+    },
+    {
+        "id": 390,
+        "name": "WWF WrestleMania 2000\n",
+        "date": "1999-10-12PAL\n",
+        "genre": "THQPAL/NAAsmik AceJP\n"
+    },
+    {
+        "id": 391,
+        "name": "Xena: Warrior Princess - The Talisman of FateXena: Warrior PrincessPAL\n",
+        "date": "1999-12-14NA\n",
+        "genre": "Titus Software\n"
+    },
+    {
+        "id": 392,
+        "name": "Yakochu II: Satsujin Koro\n",
+        "date": "1999-10-22JP\n",
+        "genre": "Athena\n"
+    },
+    {
+        "id": 393,
+        "name": "Yoshi's StoryYoshi StoryJP\n",
+        "date": "1997-12-21JP\n",
+        "genre": "Nintendo\n"
+    },
+    {
+        "id": 394,
+        "name": "Zoor: Majū Tsukai Densetsu\n",
+        "date": "1999-06-11JP\n",
+        "genre": "Imagineer\n"
+    },
+    {
+        "id": 395,
+        "name": "",
+        "date": "",
+        "genre": ""
+    },
+    {
+        "id": 396,
+        "name": "40 Winks\n",
+        "date": "April 15, 2019[23]\n",
+        "genre": "Piko Interactive\n"
+    },
+    {
+        "id": 397,
+        "name": "Dragon Sword\n",
+        "date": "TBA\n",
+        "genre": "Piko Interactive\n"
+    },
+    {
+        "id": 398,
+        "name": "Glover 2\n",
+        "date": "TBA\n",
+        "genre": "Piko Interactive\n"
+    }
+]
