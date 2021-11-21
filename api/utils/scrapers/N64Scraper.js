@@ -27,9 +27,10 @@ const options = {
                     "genre":genre,
           })
       });
-      fs.writeFile('./n64games.json', JSON.stringify(games), function (err) {
-        if (err) throw err;
-        console.log('Saved!');})
+      // fs.writeFile('./n64games.json', JSON.stringify(games), function (err) {
+      //   if (err) throw err;
+      //   console.log('Saved!');})
+      return(games)
     })
     .catch(function(err) {
       console.log("crawl failed")

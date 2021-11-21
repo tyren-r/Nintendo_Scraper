@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 import NavBar from './basic/navbar';
 import Home from './Home';
-import N64Scraper from './utils/scrapers/N64Scraper'
 
 export default function App() {
   return (
@@ -25,11 +24,8 @@ export default function App() {
           <Route path="/users">
             <Users />
           </Route> */}
-          <Route path="/home">
+          <Route path="/">
             <Home />
-          </Route>
-          <Route path="/n64scraper">
-            <N64Scraper />
           </Route>
         </Switch>
     </Router>
