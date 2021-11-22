@@ -2,11 +2,10 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
-import NavBar from './basic/navbar';
-import Home from './Home';
+import NavBar from './components/navbar';
+import Home from './components/Home';
 
 export default function App() {
   return (
